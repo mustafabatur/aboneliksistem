@@ -40,7 +40,7 @@ Sistem progamlama proje ödevi
 ### Ekip üyeleri
 
 - 22060695, Mustafa Batur
-- Numara, İsim
+- 20060385, Oğuzhan Sezgin
 - Numara, İsim
 - Numara, İsim
 
